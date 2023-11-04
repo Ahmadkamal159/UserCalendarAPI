@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserCalendarAPI", "UserCalendarAPI.csproj", "{675D9D4C-F392-4E7D-8DB9-C1914D76B349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675D9D4C-F392-4E7D-8DB9-C1914D76B349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675D9D4C-F392-4E7D-8DB9-C1914D76B349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675D9D4C-F392-4E7D-8DB9-C1914D76B349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675D9D4C-F392-4E7D-8DB9-C1914D76B349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A90889A-7427-4962-83D1-B84273C088D9}
+	EndGlobalSection
+EndGlobal
